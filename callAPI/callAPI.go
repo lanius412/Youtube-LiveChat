@@ -10,8 +10,8 @@ import (
 	"google.golang.org/api/youtube/v3"
 	"google.golang.org/api/googleapi/transport"
 
-	"LiveChat_yt/load"
-	"LiveChat_yt/convertTime"
+	"github.com/ry0-suke/Youtube-LiveChat/load"
+	"github.com/ry0-suke/Youtube-LiveChat/convertTime"
 )
 
 var developerKey string
