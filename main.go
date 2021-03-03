@@ -7,14 +7,9 @@ import (
 	"log"
 	"time"
 
-	"LiveChat_yt/callAPI"
-	"LiveChat_yt/setup"
+	"github.com/ry0-suke/Youtube-LiveChat/callAPI"
+	"github.com/ry0-suke/Youtube-LiveChat/setup"
 )
-//"UCrWkFUu3DK5XpYBUPDC5uLA"//ぽっぽ
-//"UChLfthKoUV502J7gU9STArg" //しぶはる
-//"UCIu-aUArYq_H84dBpCAokMA" //れいど
-//"UCXXEOK4erP8E3cbszN22bEQ" //福岡放送
-//"UC2GuoutVyegg6PUK88lLpjw" //2bro
 
 func main() {
 	var (
